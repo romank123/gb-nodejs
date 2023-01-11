@@ -4,7 +4,7 @@
   "description": "",
   "main": "homework-1.js",
   "scripts": {
-    "dev": "node homework-1.js",
+    "dev": "node homework-2.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
