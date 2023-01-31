@@ -19,10 +19,10 @@
   "homepage": "https://github.com/romank123/gb-nodejs#readme",
   "dependencies": {
     "colors": "^1.4.0",
-    "events": "^3.3.0",
-    "inquirer": "^9.1.4",
+    "inquirer": "^8.1.2",
+    "moment": "^2.29.1",
+    "moment-precise-range-plugin": "^1.3.0",
     "node-fs": "^0.1.7",
-    "readline": "^1.3.0",
-    "yargs": "^17.6.2"
+    "yargs": "^17.1.0"
   }
 }
