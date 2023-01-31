@@ -1,0 +1,28 @@
+{
+  "name": "gb-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "homework-1.js",
+  "scripts": {
+    "dev": "node homework-4.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romank123/gb-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/romank123/gb-nodejs/issues"
+  },
+  "homepage": "https://github.com/romank123/gb-nodejs#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "events": "^3.3.0",
+    "inquirer": "^9.1.4",
+    "node-fs": "^0.1.7",
+    "readline": "^1.3.0",
+    "yargs": "^17.6.2"
+  }
+}
