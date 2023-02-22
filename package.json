@@ -1,0 +1,45 @@
+{
+  "name": "homeworks_nodejs",
+  "version": "1.0.5",
+  "description": "Практические работы по курсу Node.js от Geekbrains",
+  "main": "index.js",
+  "scripts": {
+    "hw1": "node ./01/ColoredNumbers.js",
+    "hw2_1": "node ./02/sync_async.js",
+    "hw2_2": "node ./02/timer.js",
+    "hw3": "node index.js",
+    "hw4": "node index.js",
+    "hw5": "node ./05/index.js",
+    "hw6": "node ./06/index.js",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SyominAlex/Node.js_Geekbrains.git"
+  },
+  "keywords": [
+    "Node.js",
+    "JavaScript",
+    "JS"
+  ],
+  "author": "Syomin Alex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SyominAlex/Node.js_Geekbrains/issues"
+  },
+  "homepage": "https://github.com/SyominAlex/Node.js_Geekbrains#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "date-fns": "^2.27.0",
+    "inquirer": "^8.2.0",
+    "moment": "^2.29.1",
+    "nodemon": "^2.0.15",
+    "prettier": "^2.5.1",
+    "socket.io": "^4.4.0",
+    "yargs": "^17.3.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.4.0"
+  }
+}
